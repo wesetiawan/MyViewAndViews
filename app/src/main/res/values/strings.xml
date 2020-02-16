@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">#Xiaomi64MPPertama. Memberikan tiga teknologi yang tersedia pertama kalinya di Indonesia: quad kamera 64MP, prosesor Helio G90T dengan LiquidCool dan NFC di smartphone di harga di bawah Rp. 3 juta.</string>
+    <string name="content_specs_display">6.53 inches\n
+        IPS LCD capacitive touchscreen, 16M colors\n
+        Corning Gorilla Glass 5\n
+        500 nits max brightness\n
+        HDR\n
+    </string>
+    <string name="content_specs_size">161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="content_specs_platform">Android 9.0 (Pie) MIUI 10\n
+    Mediatek helio G90T (12nm)\n
+    Octa-core (2x2.05 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)\n
+    Mali-G76 MC4</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="dummy_value">Rp 2.999.999</string>
+    <string name="stock">Stock Hanya 5</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual Oleh</string>
+    <string name="my_name">Narendra Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="platform">Platform</string>
+</resources>
